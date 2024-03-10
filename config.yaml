@@ -1,3 +1,11 @@
 module:
   hugoVersion:
     min: "0.84.0"
+  
+baseURL = 'https://clipfuse.pages.dev/'
+languageCode = 'en-us'
+title = 'ClipFuse'
+theme = 'Hyde'
+description = 'This is test practise by GenAI from confuse'
+copyright = 'Clipfuse.app'
+
